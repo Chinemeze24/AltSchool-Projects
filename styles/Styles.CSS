@@ -1,0 +1,34 @@
+h1{
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+    border-radius: 300px;
+    width: 500px;
+    display: block;
+    margin: auto;
+
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 250px;
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    padding: 15px;
+    display: block;
+    margin: auto;
+    background-color: blue;
+    width: 300px;
+}
+
+.footer p{
+    color: var(--black-2);
+}
+.grid {
+    display: grid;
+}
